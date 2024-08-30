@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 0,
+    "Title": "Потыкать консоль",
+    "Description": "Проверить все функции приложения ролью \"Работник\"",
+    "Status": "Сделал",
+    "AssignedTo": {
+      "Username": "Nikitos",
+      "Password": "Nikitos",
+      "Role": 1
+    },
+    "ChangeLogs": []
+  },
+  {
+    "Id": 1,
+    "Title": "Test",
+    "Description": "Test",
+    "Status": "Done",
+    "AssignedTo": {
+      "Username": "Nikitos",
+      "Password": "Nikitos",
+      "Role": 1
+    },
+    "ChangeLogs": [
+      "[30.08.2024 12:49:27] - [Nikitos] изменил статус задачи [Test] на [Done]"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.csproj.AssemblyReference.cache
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.AssemblyInfoInputs.cache
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.AssemblyInfo.cs
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.csproj.CoreCompileInputs.cache
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\bin\Debug\net6.0\ProjectManagementSystemTZ.exe
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\bin\Debug\net6.0\ProjectManagementSystemTZ.deps.json
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\bin\Debug\net6.0\ProjectManagementSystemTZ.runtimeconfig.json
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\bin\Debug\net6.0\ProjectManagementSystemTZ.dll
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\bin\Debug\net6.0\ProjectManagementSystemTZ.pdb
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.csproj.CopyComplete
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.dll
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\refint\ProjectManagementSystemTZ.dll
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.pdb
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ProjectManagementSystemTZ.genruntimeconfig.cache
+C:\Users\xannnnssiety\source\repos\ProjectManagementSystemTZ\ProjectManagementSystemTZ\obj\Debug\net6.0\ref\ProjectManagementSystemTZ.dll
